@@ -1,0 +1,3 @@
+[submodule "unquialified-search"]
+	path = unquialified-search
+	url = https://github.com/pablopeniche/simpleWikiSearch.git
